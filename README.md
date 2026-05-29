@@ -23,7 +23,7 @@ I build data-driven security projects—especially detection and ML-based intrus
 - (ISC)² Certified in Cybersecurity (CC)
 - CompTIA Network+
 - CompTIA Security+
-- Junior Penetration Tester path
+- Junior Penetration Tester (eJPT)
 
 ## Currently working on
 - BTL1
