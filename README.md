@@ -109,7 +109,7 @@ I build data-driven security projects—especially detection and ML-based intrus
   </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <!-- Dark mode -->
     <source media="(prefers-color-scheme: dark)"
@@ -121,7 +121,7 @@ I build data-driven security projects—especially detection and ML-based intrus
     <img alt="github contribution snake"
          src="https://raw.githubusercontent.com/diogojfbraga/diogojfbraga/main/dist/github-snake.svg">
   </picture>
-</p>
+</p> -->
 
 
 
