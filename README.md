@@ -109,23 +109,6 @@ I build data-driven security projects—especially detection and ML-based intrus
   </tr>
 </table>
 
-<!-- <p align="center">
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/diogojfbraga/diogojfbraga/main/dist/github-snake-dark.svg">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/diogojfbraga/diogojfbraga/main/dist/github-snake.svg">
-    <!-- Fallback -->
-    <img alt="github contribution snake"
-         src="https://raw.githubusercontent.com/diogojfbraga/diogojfbraga/main/dist/github-snake.svg">
-  </picture>
-</p> -->
-
-
-
-
 
 <h2 align="center">Let’s Connect and have a Chat! 💬</h2>
 
