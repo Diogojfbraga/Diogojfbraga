@@ -129,7 +129,7 @@ I build data-driven security projects—especially detection and ML-based intrus
 
 <h2 align="center">Let’s Connect and have a Chat! 💬</h2>
 
-<table align="center" cellpadding="12" cellspacing="0">
+<!-- <table align="center" cellpadding="12" cellspacing="0">
   <tr>
     <td bgcolor="#0b0f14" align="center">
       <a href="https://linkedin.com/in/diogo-braga-8369371b8" target="_blank" rel="noopener noreferrer">
@@ -137,6 +137,6 @@ I build data-driven security projects—especially detection and ML-based intrus
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 
