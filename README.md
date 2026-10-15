@@ -18,16 +18,17 @@ I build data-driven security projects—especially detection and ML-based intrus
 
 ## Education
 - BSc (Hons) Computer Science
+- Post Grad Clinical Data Science
 
 ## Certifications
 - (ISC)² Certified in Cybersecurity (CC)
 - CompTIA Network+
 - CompTIA Security+
 - Junior Penetration Tester (eJPT)
+- BTL1
+  
 
 ## Currently working on
-- BTL1
-- Post Grad Clinical Data Science
 - 100 Days of Code™: The Complete Python Pro Bootcamp
 
 <h2 align="center">🚀 Some Tools I Have Used and Learnt</h2>
