@@ -22,6 +22,8 @@ I build data-driven security projects—especially detection and ML-based intrus
 
 ## Certifications
 - (ISC)² Certified in Cybersecurity (CC)
+- MS Azure 900
+- MS SC 900
 - CompTIA Network+
 - CompTIA Security+
 - Junior Penetration Tester (eJPT)
